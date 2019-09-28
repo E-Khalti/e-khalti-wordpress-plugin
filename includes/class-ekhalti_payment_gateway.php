@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Ekhalti_payment_gateway
  * @subpackage Ekhalti_payment_gateway/includes
- * @author     shashikant <shashikant.marskole@gmail.com>
+ * @author     e-Khalti.com
  */
 class Ekhalti_payment_gateway {
 
